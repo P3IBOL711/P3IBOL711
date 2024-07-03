@@ -1,5 +1,4 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=P3IBOL711&show_icons=true&theme=radical)
 <!--
 **P3IBOL711/P3IBOL711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
